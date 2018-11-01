@@ -86,6 +86,6 @@ C6kMeRvyJtlm/+OvMe2MUvyKnQpbXo6Zj2HXBiuegvgKUTydpwx10/g+odIR
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-# LICENSE
+# LICENSE 氪
 We are currently working on a new license for Krypton. For now, the code
 is released under All Rights Reserved.
